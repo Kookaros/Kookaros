@@ -7,7 +7,7 @@ I build premium FiveM scripts with clean, custom UIs that are easy to set up and
 
 - 🧩 Scripts for **ESX, QBCore, Qbox** and standalone
 - 🛠️ Lua · JavaScript · HTML / CSS (NUI) · MySQL
-- 🛒 Store: [tds-store.tebex.io](https://tds-store.tebex.io)
+- 🛒 Store: [tds-scripts.tebex.io](https://tds-scripts.tebex.io)
 - 💬 Support: [Discord](https://discord.gg/tBudjqQvPV) · [Cfx.re Forum](https://forum.cfx.re/u/TDS-Scripts)
 - ▶️ Showcases: [YouTube](https://youtube.com/@TDSScripts) · [TikTok](https://tiktok.com/@tds.scripts)
 
