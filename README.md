@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://forum-cfx-re.akamaized.net/original/5X/a/f/6/4/af64c3d551ec6158cfad313330a744c76616ab43.webp" alt="TDS · Trinity Digital Solutions" width="100%">
 
-<!--
-**Kookaros/Kookaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Kookaros 👋
 
-Here are some ideas to get you started:
+FiveM developer and co-founder of **[TDS · Trinity Digital Solutions](https://github.com/Trinity-Digital-Solutions)**.
+I build premium FiveM scripts with clean, custom UIs that are easy to set up and fully configurable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 Scripts for **ESX, QBCore, Qbox** and standalone
+- 🛠️ Lua · JavaScript · HTML / CSS (NUI) · MySQL
+- 🛒 Store: [tds-store.tebex.io](https://tds-store.tebex.io)
+- 💬 Support: [Discord](https://discord.gg/tBudjqQvPV) · [Cfx.re Forum](https://forum.cfx.re/u/TDS-Scripts)
+- ▶️ Showcases: [YouTube](https://youtube.com/@TDSScripts) · [TikTok](https://tiktok.com/@tds.scripts)
+
+**Our scripts:** Dealership · House Robbery · Mailboxes · Money Wash · Turf · HUD · Interface · Loading Screen
